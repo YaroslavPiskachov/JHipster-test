@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.implemica",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "monolith",
+    "baseName": "jhipster_test",
+    "packageName": "com.implemica",
+    "packageFolder": "com/implemica",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MjdmMjA0ZTQxNGIzZmVkMzc5Njc3ZTg1NWEyMTYwYjkxYTMxZTQ2ZWEzMDY1MjBlZDU5MjBhNDQ3YWMyNjlhYWM5MzNiNzY0MDEwYjI4ZGUwYmE0NmRlMmUwYjkyYTY4NGQyNTk2MjUwNGQ4MzFlZjA4ZTMyYWExY2U4YjEyNDI=",
+    "clientFramework": "angularX",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "zh-cn",
+      "ua"
+    ]
+  }
+}
